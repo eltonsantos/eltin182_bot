@@ -53,7 +53,8 @@ def cancel(update, context):
 def main():
     try:
         # token = os.getenv('TELEGRAM_BOT_TOKEN', None)
-        token = 'cole_aqui_o_token_de_acesso_do_seu_bot'
+        # token = 'cole_aqui_o_token_de_acesso_do_seu_bot'
+        token = '1116345055:AAGfsYG4p3nht6l9n9XShjimZCBAfZUJKpk'
         updater = Updater(token=token, use_context=True)
 
         updater.dispatcher.add_handler(CommandHandler('start', welcome))
