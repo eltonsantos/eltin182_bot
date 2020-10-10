@@ -12,7 +12,7 @@ Eltin182_bot é um simples bot que criei com ajuda do curso [Como fazer um Chatb
 
 ## :memo: Licença
 
-Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
 
 ## 👨🏻‍💻 Autor
 
